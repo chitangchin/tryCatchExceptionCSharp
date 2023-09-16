@@ -1,0 +1,14 @@
+C:\Users\brandon\tryCatchExceptionCSharp\bin\Debug\net7.0\tryCatchExceptionCSharp.exe
+C:\Users\brandon\tryCatchExceptionCSharp\bin\Debug\net7.0\tryCatchExceptionCSharp.deps.json
+C:\Users\brandon\tryCatchExceptionCSharp\bin\Debug\net7.0\tryCatchExceptionCSharp.runtimeconfig.json
+C:\Users\brandon\tryCatchExceptionCSharp\bin\Debug\net7.0\tryCatchExceptionCSharp.dll
+C:\Users\brandon\tryCatchExceptionCSharp\bin\Debug\net7.0\tryCatchExceptionCSharp.pdb
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.AssemblyInfoInputs.cache
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.AssemblyInfo.cs
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.dll
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\refint\tryCatchExceptionCSharp.dll
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.pdb
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\tryCatchExceptionCSharp.genruntimeconfig.cache
+C:\Users\brandon\tryCatchExceptionCSharp\obj\Debug\net7.0\ref\tryCatchExceptionCSharp.dll
